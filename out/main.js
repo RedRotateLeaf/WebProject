@@ -16,3 +16,4 @@ function Paint(n) {
 window.onload = function () {
     Paint(5);
 };
+//# sourceMappingURL=main.js.map

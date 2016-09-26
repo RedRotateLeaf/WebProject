@@ -14,5 +14,5 @@ function Paint(n:number):void {
     }
 }
 window.onload = function() {
-    Paint(8);
+    Paint(5);
 };
